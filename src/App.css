@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+#main{
+  height: 100vh;
+}
+#brimg{
+  width: 60%;
+  background-image: url("https://img.freepik.com/free-photo/inspiring-view-sunrise-light_23-2148851738.jpg?uid=R176662796&ga=GA1.1.1148215829.1725943413&semt=ais_hybrid");
+  background-size: cover;
+  
+}
+
+#second{
+  background-color: rgb(253, 246, 236);
+  width: 40%;
+}
